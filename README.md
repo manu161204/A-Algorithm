@@ -1,3 +1,2 @@
-# A*-Algorithm
-this is my algorithm
-hjhj
+# A* Pathfinding Visualization
+Pathfinding visualization by using pygame and using A* algorithim
