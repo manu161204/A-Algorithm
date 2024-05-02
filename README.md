@@ -8,4 +8,5 @@ This project is a visualizer for pathfinding algorithms, with a focus on the A* 
 Technologies:
 
 Python: The backend of the visualizer is implemented in Python, utilizing its simplicity and versatility for algorithm implementation.
+
 A Algorithm*: The core algorithm powering the pathfinding functionality is the A* algorithm, known for its efficiency in finding the shortest path on weighted graphs.
